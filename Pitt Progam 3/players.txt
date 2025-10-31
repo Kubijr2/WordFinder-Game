@@ -1,0 +1,9 @@
+Inigo,Get6FingeredMan,4,15,40
+Westley,IAmDreadPirate,2,7,25
+Vizzini,Inconceivable!,5,11,32
+Fezzik,Sportsmanlike,6,25,84
+Buttercup,LightningSand,2,9,21
+Humperdinck,IShouldBeKing,1,3,10
+Max,RottenMiracles,2,5,15
+kubijr,abc,1,18,72
+Kubijr2,Show8000,1,9,30
